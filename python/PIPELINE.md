@@ -1,7 +1,9 @@
 # WiFi CSI–Based Human Pose Estimation Pipeline
 
-**Tác giả:** Võ Hồ Hoàng Việt 
+**Tác giả:** Võ Hồ Hoàng Việt  
+
 **Cơ sở:**  Ước lượng tư thế người sử dụng tín hiệu WiFi CSI  
+
 **Ngày cập nhật:** 08/04/2026
 
 ---
